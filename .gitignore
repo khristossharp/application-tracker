@@ -1,0 +1,59 @@
+﻿# Build folders
+bin/
+obj/
+out/
+
+# Packages
+packages/
+*.nupkg
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.csproj.user
+
+# Logs
+*.log
+*.tlog
+*.wrn
+*.err
+
+# Database-related files
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.cache
+*.idea/
+*.dbmdl
+*.VC.db
+
+# Visual Studio-specific files and folders
+.vscode/
+.vs/
+*.vshost.*
+
+# IIS and web-related files
+_IISExpress/
+aspnet_client/
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Recycle Bin-related
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.swp
+
+# Crash files
+mono_crash.*
+
+# Other
+*.pdb
